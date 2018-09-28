@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for simple SbaopApplication.
  */
-public class sbaopApplicationTest
+public class AopApplicationTest
 {
     /**
      * Rigorous Test :-)
